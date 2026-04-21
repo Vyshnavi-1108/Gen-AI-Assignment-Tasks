@@ -1,0 +1,174 @@
+================================================================================
+Resume File: data/resume_strong.txt
+================================================================================
+
+STEP 1: SKILL EXTRACTION
+
+Skills:
+- Python
+- SQL
+- Machine Learning
+- Statistics
+- Data Visualization
+- Communication
+
+Tools:
+- Pandas
+- NumPy
+- scikit-learn
+- Matplotlib
+- Seaborn
+- Jupyter
+
+Experience:
+- Built prediction models for customer churn
+- Performed feature engineering and model evaluation
+- Presented business insights to cross-functional teams
+
+STEP 2: MATCHING
+
+Matched Requirements:
+- Python
+- SQL
+- Machine Learning
+- Statistics
+- Data Visualization
+- Experience with tools such as Pandas, NumPy, scikit-learn, Matplotlib, Seaborn, or similar
+- Good communication skills
+
+Missing Requirements:
+- None
+
+Experience Match:
+- yes
+
+Overall Match Summary:
+- The candidate's skills and experience align with the job requirements.
+- The candidate has relevant experience in building machine learning models and presenting insights to stakeholders.
+
+STEP 3: SCORING
+
+Score: 100
+Reason:
+- The candidate matches all the required skills and experience.
+- There are no missing requirements, indicating a perfect alignment with the job description.
+
+STEP 4: EXPLANATION
+
+The candidate score is 100, indicating a perfect match for the Data Scientist role. This score is based on the candidate's skills and experience, which align with all the requirements listed in the job description. The candidate has demonstrated proficiency in essential skills such as Python, SQL, Machine Learning, and Data Visualization, as well as experience with relevant tools like Pandas, NumPy, and scikit-learn.
+
+The candidate's experience in building prediction models, performing feature engineering, and presenting business insights to cross-functional teams also aligns with the job's responsibilities. With no missing requirements, the candidate's profile shows a strong fit for the role. Overall, the candidate's skills and experience make them a highly suitable candidate for the Data Scientist position, which is reflected in the perfect score of 100.
+
+
+
+================================================================================
+Resume File: data/resume_average.txt
+================================================================================
+
+STEP 1: SKILL EXTRACTION
+
+Skills:
+- Python
+- SQL
+- Excel
+- Data Visualization
+
+Tools:
+- Pandas
+- Matplotlib
+- Tableau
+
+Experience:
+- Cleaned data and created reports
+- Built dashboards for business reporting
+- Worked with SQL queries for analysis
+
+STEP 2: MATCHING
+
+Matched Requirements:
+- Python
+- SQL
+- Data Visualization
+- Experience with tools such as Pandas, Matplotlib
+
+Missing Requirements:
+- Machine Learning
+- Statistics
+- Experience with tools such as NumPy, scikit-learn, Seaborn
+- Good communication skills
+
+Experience Match:
+- yes
+
+Overall Match Summary:
+- The candidate has some technical skills required for the job, such as Python and SQL.
+- The candidate lacks experience in machine learning and statistics, which are crucial for the Data Scientist role.
+
+STEP 3: SCORING
+
+Score: 40
+Reason:
+- The candidate matches some of the technical requirements such as Python, SQL, and Data Visualization.
+- The candidate lacks crucial skills like Machine Learning, Statistics, and experience with certain tools, which are essential for the Data Scientist role.
+
+STEP 4: EXPLANATION
+
+The candidate score is 40, indicating a partial match for the Data Scientist role. This score reflects the candidate's strengths in technical skills such as Python, SQL, and Data Visualization, which are essential requirements for the job. The candidate has also demonstrated experience with relevant tools like Pandas and Matplotlib, which is a positive aspect of their profile.
+
+However, the candidate falls short in crucial areas such as Machine Learning and Statistics, which are vital for a Data Scientist. Additionally, they lack experience with certain tools like NumPy, scikit-learn, and Seaborn, and their communication skills are not mentioned. While the candidate has some relevant technical skills, the gaps in their profile, particularly in key areas, contribute to the relatively low score of 40.
+
+
+
+================================================================================
+Resume File: data/resume_weak.txt
+================================================================================
+
+STEP 1: SKILL EXTRACTION
+
+Skills:
+- MS Office
+- Communication
+- Documentation
+
+Tools:
+- Word
+- Excel
+- PowerPoint
+
+Experience:
+- Helped with reporting and daily office tasks.
+- Coordinated with team members and maintained records.
+
+STEP 2: MATCHING
+
+Matched Requirements:
+- Communication
+
+Missing Requirements:
+- Python
+- SQL
+- Machine Learning
+- Statistics
+- Data Visualization
+- Experience with tools such as Pandas, NumPy, scikit-learn, Matplotlib, Seaborn, or similar
+
+Experience Match:
+- no
+
+Overall Match Summary:
+- The candidate lacks technical skills required for the job.
+- The candidate's experience does not align with the responsibilities of a Data Scientist.
+
+STEP 3: SCORING
+
+Score: 5
+Reason:
+- The candidate only matches the communication requirement.
+- The candidate is missing all technical skills and experience required for the job.
+
+STEP 4: EXPLANATION
+
+The candidate score is 5, indicating a low match for the Data Scientist position. This is because the candidate only meets one of the job's requirements, which is good communication skills. While this is an important aspect of the role, it is not enough to fulfill the technical demands of the job.
+
+The candidate lacks essential technical skills such as Python, SQL, Machine Learning, and Data Visualization, as well as experience with specific tools like Pandas and scikit-learn. Additionally, their experience in reporting and office tasks does not align with the responsibilities of a Data Scientist, which includes analyzing data, building machine learning models, and presenting insights to stakeholders. Overall, the candidate's profile does not align with the requirements of the Data Scientist role.
+

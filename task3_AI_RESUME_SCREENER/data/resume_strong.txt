@@ -1,0 +1,8 @@
+Name: s vyshnavi
+Summary: Data Scientist with 5 years of experience in analytics and machine learning.
+Skills: Python, SQL, Machine Learning, Statistics, Data Visualization, Communication
+Tools: Pandas, NumPy, scikit-learn, Matplotlib, Seaborn, Jupyter
+Experience:
+- Built prediction models for customer churn.
+- Performed feature engineering and model evaluation.
+- Presented business insights to cross-functional teams.

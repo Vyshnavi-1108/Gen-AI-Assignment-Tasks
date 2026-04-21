@@ -1,0 +1,17 @@
+Job Title: Data Scientist
+
+Responsibilities:
+- Analyze structured and unstructured data.
+- Build machine learning models.
+- Communicate findings to stakeholders.
+- Work with Python and SQL for data analysis.
+- Use visualization tools to present insights.
+
+Requirements:
+- Python
+- SQL
+- Machine Learning
+- Statistics
+- Data Visualization
+- Experience with tools such as Pandas, NumPy, scikit-learn, Matplotlib, Seaborn, or similar
+- Good communication skills

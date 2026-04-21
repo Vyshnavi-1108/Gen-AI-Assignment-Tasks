@@ -1,0 +1,8 @@
+Name: Rahul 
+Summary: Data Analyst with 2 years of experience.
+Skills: Python, SQL, Excel, Data Visualization
+Tools: Pandas, Matplotlib, Tableau
+Experience:
+- Cleaned data and created reports.
+- Built dashboards for business reporting.
+- Worked with SQL queries for analysis.

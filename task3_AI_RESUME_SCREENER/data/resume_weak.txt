@@ -1,0 +1,7 @@
+Name: Priya 
+Summary: Graduate with internship exposure in office operations.
+Skills: MS Office, Communication, Documentation
+Tools: Word, Excel, PowerPoint
+Experience:
+- Helped with reporting and daily office tasks.
+- Coordinated with team members and maintained records.
